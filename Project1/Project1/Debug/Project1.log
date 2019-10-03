@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\навчання\4 курс\project1\project1\source.cpp(40): warning C4305: аргумент: усечение из "int" в "GLushort"
+d:\навчання\4 курс\project1\project1\source.cpp(40): warning C4309: аргумент: усечение константного значения
+d:\навчання\4 курс\project1\project1\source.cpp(62): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+  Project1.vcxproj -> D:\Навчання\4 курс\Project1\Debug\Project1.exe
